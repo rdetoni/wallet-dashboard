@@ -24,3 +24,6 @@ yarn-error.log*
 
 #deploy file
 deploy_to_pi_sensitive.sh
+
+#any tar files containing deploy image
+*.tar
